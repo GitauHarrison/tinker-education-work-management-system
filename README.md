@@ -33,3 +33,5 @@ From there on, no one has to worry about subsequent steps that need to be done t
 &nbsp;
 
 This way, quality of the most trivial things are going to be guaranteed. _Let your energy be well spent on things that build you._
+
+The full design of the project can be found [here](https://www.figma.com/proto/3AfCYTnIYOMUtTJ7UqtTjz/Tinker-Work-Management-System?node-id=30%3A2&scaling=min-zoom).
